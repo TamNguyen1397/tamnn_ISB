@@ -1,0 +1,50 @@
+[
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\IoT_Smart_Building_tamnn\\\\pages\\\\dashboard.vue",
+    "chunkName": "pages/dashboard"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\IoT_Smart_Building_tamnn\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\IoT_Smart_Building_tamnn\\\\pages\\\\login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "media",
+    "path": "/media",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\IoT_Smart_Building_tamnn\\\\pages\\\\media.vue",
+    "chunkName": "pages/media"
+  },
+  {
+    "name": "devices-AddDeviceDialog",
+    "path": "/devices/AddDeviceDialog",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\IoT_Smart_Building_tamnn\\\\pages\\\\devices\\\\AddDeviceDialog.vue",
+    "chunkName": "pages/devices/AddDeviceDialog"
+  },
+  {
+    "name": "devices-AddDeviceMethod",
+    "path": "/devices/AddDeviceMethod",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\IoT_Smart_Building_tamnn\\\\pages\\\\devices\\\\AddDeviceMethod.vue",
+    "chunkName": "pages/devices/AddDeviceMethod"
+  },
+  {
+    "name": "devices-devices",
+    "path": "/devices/devices",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\IoT_Smart_Building_tamnn\\\\pages\\\\devices\\\\devices.vue",
+    "chunkName": "pages/devices/devices"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\DELL\\\\Desktop\\\\IoT_Smart_Building_tamnn\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
